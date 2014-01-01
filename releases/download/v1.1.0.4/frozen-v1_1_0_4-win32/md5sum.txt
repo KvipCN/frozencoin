@@ -1,4 +1,0 @@
-c8d7d46f9fa7c421be4f2a65b1a14f48 *frozend.exe
-7be03d296112ce560c5fe6c9b7ca36f1 *frozen-qt.exe
-b65bf450b4bc4615cec73489ded00db9  frozen.conf
-c72d52163e8b6d704d6d9e22ee89c1ac  readme.txt
